@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\WordReplace\WordReplace\bin\Debug\WordReplace.exe.config
+C:\Users\user\source\repos\WordReplace\WordReplace\bin\Debug\WordReplace.exe
+C:\Users\user\source\repos\WordReplace\WordReplace\bin\Debug\WordReplace.pdb
+C:\Users\user\source\repos\WordReplace\WordReplace\obj\Debug\WordReplace.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WordReplace\WordReplace\obj\Debug\WordReplace.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WordReplace\WordReplace\obj\Debug\WordReplace.exe
+C:\Users\user\source\repos\WordReplace\WordReplace\obj\Debug\WordReplace.pdb
